@@ -5,7 +5,7 @@
     padding: 0;
     scroll-behavior: smooth;
 }
-
+/*general*/
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
@@ -103,7 +103,7 @@ section {
     text-align: center;
     width: 100%;
 }
-
+/*boton*/
 .btn-cv {
     background-color: #FFEB3B;
     padding: 12px 20px;
@@ -134,7 +134,7 @@ section {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
+    align-content: center;
 }
 
 .icon {
@@ -151,7 +151,6 @@ footer {
     background-color: #FFEB3B;
     box-shadow: 0px -1px 10px 0px #3F51B5;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
     padding: 16px;
