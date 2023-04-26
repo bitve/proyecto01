@@ -62,7 +62,7 @@ header {
 }
 
 .logo {
-    width: 60px;
+    width: 65px;
 }
 
 .menu {
@@ -97,6 +97,7 @@ section {
 
 .img-presentacion img {
     width: 300px;
+    border-radius: 60px;
 }
 
 .descripcion {
@@ -144,6 +145,10 @@ section {
     height: 50px;
     border: none;
     border-radius: 0%;
+}
+
+.info {
+    color: hsla(0, 0%, 100%, 0.623);
 }
 
 /*pie de pagina*/
